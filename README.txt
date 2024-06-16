@@ -1,0 +1,2 @@
+Hello. After downloading the files, you can select the one you need and click on it. 
+You will be redirected to a browser (to a site with a Google spreadsheet) where there will be a list of passwords. 
